@@ -1,5 +1,5 @@
 # scapy-nmap-traffic-analysis
-Using scapy to analysis nmap scan traffic
+Using scapy to analysis nmap scan traffic (testing file: pcap)
 
 Plan to identify the scan with seq number
 
